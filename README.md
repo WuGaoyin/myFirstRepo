@@ -1,2 +1,3 @@
 # myFirstRepo
-master commit
+master commit 0
+master commit 1
